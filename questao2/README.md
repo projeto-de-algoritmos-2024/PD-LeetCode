@@ -49,6 +49,9 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/47de9ec3-388f-4c6f-ac0b-3d6eed4cfd1e)
+![image](https://github.com/user-attachments/assets/c8bdf4e0-bdfb-49a7-b56e-225f9c04cb3b)
+
 
 
 
