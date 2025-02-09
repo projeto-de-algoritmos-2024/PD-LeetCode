@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int superEggDrop(int k, int n) {
-    // Tentações máximas possíveis
+    // Tentativas máximas possíveis
     int t = 0;
     
     // Matriz DP onde dp[t][k] representa o número máximo de andares testáveis com t tentativas e k ovos

@@ -22,10 +22,10 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Progrrmaç�
 | []() | Hard | [Clique Aqui]() | Mateus Orlando Medeiros Ribeiro |
 | [887. Super Egg Drop](https://github.com/projeto-de-algoritmos-2024/PD-LeetCode/blob/main/questao2/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/super-egg-drop/description/) | Johnny da Ponte Lopes |
 | []() | Medium | [Clique Aqui]() | Mateus Orlando Medeiros Ribeiro |
-| []() | Medium | [Clique Aqui]() | Johnny da Ponte Lopes |
+| [787. Cheapest Flights Within K Stops](https://github.com/projeto-de-algoritmos-2024/PD-LeetCode/blob/main/questa4/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Johnny da Ponte Lopes |
 
 
 ## Instalação 
-**Linguagem**: C/Python
+**Linguagem**: C
 
 
