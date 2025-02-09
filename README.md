@@ -20,7 +20,7 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Progrrmaç�
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
 | []() | Hard | [Clique Aqui]() | Mateus Orlando Medeiros Ribeiro |
-| []() | Hard | [Clique Aqui]() | Johnny da Ponte Lopes |
+| [887. Super Egg Drop](https://github.com/projeto-de-algoritmos-2024/PD-LeetCode/blob/main/questao2/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/super-egg-drop/description/) | Johnny da Ponte Lopes |
 | []() | Medium | [Clique Aqui]() | Mateus Orlando Medeiros Ribeiro |
 | []() | Medium | [Clique Aqui]() | Johnny da Ponte Lopes |
 
