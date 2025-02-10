@@ -4,7 +4,7 @@
 
 ### Gravação
 
-Link da gravação: [Clique aqui]()
+Link da gravação: [Clique aqui](https://www.youtube.com/watch?v=bl3wXfF7CGc)
 
 #### Dificuldade: Média
 
@@ -57,6 +57,8 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/de77cdc7-b8b7-4f67-9c79-2026c964c343)
+![image](https://github.com/user-attachments/assets/b3cd961e-258f-4a42-a57c-fdcc072ad62f)
 
 
 
