@@ -1,5 +1,7 @@
 ## #10. Regular Expression Matching
 
+![image](https://github.com/user-attachments/assets/3618646b-f17c-463c-8810-345ec7b53d24)
+
 [Link para a questão](https://leetcode.com/problems/regular-expression-matching/description/)
 
 ### Gravação
@@ -44,6 +46,8 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/1d49a192-191e-4bc9-bfa6-16aa8bdb6b6b)
+![image](https://github.com/user-attachments/assets/a1b9d54d-40d2-4dbf-a60b-b8696a07e014)
 
 
 
