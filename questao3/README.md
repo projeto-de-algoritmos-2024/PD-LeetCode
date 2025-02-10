@@ -1,6 +1,6 @@
 ## #62. Unique Paths
 
-
+![image](https://github.com/user-attachments/assets/38f465b3-fbcc-4ef6-862c-1b25e3ef4123)
 
 [Link para a questão](https://leetcode.com/problems/unique-paths/description/)
 
@@ -17,6 +17,8 @@ Given the two integers m and n, return the number of possible unique paths that 
 The test cases are generated so that the answer will be less than or equal to 2 * 10^9.
 
 Example 1:
+
+![image](https://github.com/user-attachments/assets/153097f2-4e09-4463-8b94-f85cbffb2e01)
 
 - Input: m = 3, n = 7
 - Output: 28
@@ -37,6 +39,8 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/207f1f8c-76ce-478d-ae4a-2965016bbf4b)
+![image](https://github.com/user-attachments/assets/3ca74c8a-801e-411a-b643-c7cf88d24ea7)
 
 
 
