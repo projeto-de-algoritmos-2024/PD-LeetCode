@@ -4,7 +4,7 @@
 
 ### Gravação
 
-Link da gravação: [Clique aqui]()
+Link da gravação: [Clique aqui](https://youtu.be/aBmTzXPNL9c?feature=shared)
 
 #### Dificuldade: Difícil
 
