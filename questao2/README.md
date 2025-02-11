@@ -1,5 +1,7 @@
 ## #887. Super Egg Drop
 
+![image](https://github.com/user-attachments/assets/e50e3914-177c-4d30-b652-f3a4068110aa)
+
 [Link para a questão](https://leetcode.com/problems/super-egg-drop/description/)
 
 ### Gravação
