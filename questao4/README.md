@@ -1,5 +1,7 @@
 ## #787. Cheapest Flights Within K Stops
 
+![image](https://github.com/user-attachments/assets/088da9d2-8e92-4118-9b13-efec37ed1bab)
+
 [Link para a questão](https://leetcode.com/problems/super-egg-drop/description/)
 
 ### Gravação
